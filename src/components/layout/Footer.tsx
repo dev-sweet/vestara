@@ -68,12 +68,12 @@ export function Footer() {
                 hello@vestaraglobal.com
               </a>
               <a
-                href="https://wa.me/8801XXXXXXXXX"
+                href="https://wa.me/+8801734114388"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block font-sans text-sm text-cream-muted hover:text-gold transition-colors duration-300"
               >
-                WhatsApp: +880 1XXX XXXXXX
+                WhatsApp: +880 1734 114388
               </a>
               <div className="flex items-center gap-4 pt-2">
                 <a

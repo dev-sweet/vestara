@@ -204,7 +204,7 @@ export default function ContactPage() {
                       href="tel:+8801734114388"
                       className="text-cream hover:text-gold transition-colors"
                     >
-                      +880 1XXX-XXXXXX
+                      +8801734114388
                     </a>
                   </div>
                 </div>

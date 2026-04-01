@@ -201,7 +201,7 @@ export default function ContactPage() {
                       WhatsApp
                     </p>
                     <a
-                      href="tel:+8801XXXXXXXXX"
+                      href="tel:+8801734114388"
                       className="text-cream hover:text-gold transition-colors"
                     >
                       +880 1XXX-XXXXXX

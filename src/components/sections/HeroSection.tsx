@@ -37,7 +37,7 @@ export default function HeroSection() {
           initial="initial"
           animate="animate"
           transition={{ duration: 0.7, delay: 0, ease: 'easeOut' }}
-          className="hidden lg:block mt-10 font-[family-name:var(--font-jost)] text-[11px] uppercase tracking-[0.2em] text-gold mb-6"
+          className="invisible lg:visible mt-10 font-[family-name:var(--font-jost)] text-[11px] uppercase tracking-[0.2em] text-gold mb-6"
         >
           Premium Apparel Sourcing
         </motion.p>
